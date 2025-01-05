@@ -20,11 +20,6 @@
 
 - **RAWG API**: A aplicação faz uso da [RAWG API](https://rawg.io/apidocs) para buscar informações atualizadas sobre jogos.
 
-## 📂 Acesso ao Código
-
-O código-fonte completo do projeto está disponível no GitHub:
-
-👉 [GameHub no GitHub](#)
 
 ## 📄 Licença
 
